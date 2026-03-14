@@ -88,6 +88,8 @@ Starting execution...
 End of execution. Accepted : YES
 ```
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Credits
-This project was developed by Nolan Glotin in 2025 as part of his studies in preparatory class. It is inspired by the Turing machine and the theory of computation. It is still experimental and may contain bugs or limitations.
+## Author
+Nolan Glotin 2025
